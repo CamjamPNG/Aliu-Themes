@@ -1,14 +1,14 @@
 {
     "manifest": {
         "author": "Camjam948#0909",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "license": "MIT",
         "name": "HaloCord"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/802602624423690290\/894280493179211806\/1633283467317.jpg"
     },
-    "fonts": {},
+    "fonts": {https://cdn.discordapp.com/attachments/802602624423690290/894289765376098404/youmurdererbb_reg.ttf},
     "simple_colors": {
         "background": -13361147,
         "accent": -12112889,
