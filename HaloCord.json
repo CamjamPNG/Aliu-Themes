@@ -1,0 +1,18 @@
+{
+    "manifest": {
+        "author": "Camjam948#0909",
+        "version": "1.0.0",
+        "license": "MIT",
+        "name": "HaloCord"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/802602624423690290\/894280493179211806\/1633283467317.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": -13361147,
+        "accent": -12112889,
+        "active_channel": 1484988184,
+        "background_secondary": -16777216
+    },
+}
