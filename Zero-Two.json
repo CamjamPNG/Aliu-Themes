@@ -1,0 +1,12 @@
+{
+    "manifest": {
+        "author": "Camjam",
+        "name": "Zero Two",
+        "updater": "https://raw.githubusercontent.com/GangsterFox/AliuFox-themes/main/LandScape.json",
+        "version": "1.0.0",
+        "license": "MIT-3.0"
+    },
+    "background": {
+        "alpha": 250,
+        "url": "https://media.discordapp.net/attachments/802602624423690290/894269842004246588/unknown.png"
+    },
