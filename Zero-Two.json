@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Camjam",
         "name": "Zero Two",
-        "updater": "https://raw.githubusercontent.com/GangsterFox/AliuFox-themes/main/LandScape.json",
+        "updater": "https://github.com/camjam948/Aliu-Themes/blob/main/Zero-Two.json",
         "version": "1.0.0",
         "license": "MIT-3.0"
     },
