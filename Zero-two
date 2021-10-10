@@ -1,0 +1,28 @@
+{
+    "manifest": {
+        "author": "Camjam948#0909",
+        "name": "Zero-two",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/i.imgur.com\/0Dpi6ed_d.webp?maxwidth=640&shape=thumb&fidelity=medium"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 835614583,
+        "background_secondary": 419411638,
+        "statusbar": 838688864,
+        "active_channel": -7836417,
+        "mention_highlight": 642481321
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -302088064,
+        "uikit_btn_bg_color_selector_green": -326467585,
+        "primary_dark_200": -14013910,
+        "primary_dark_400": -14013910
+    },
+    "drawable_tints": {
+        "drawable_button_red": -302088064,
+        "drawable_button_green": -326467585
+    }
+}
