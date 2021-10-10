@@ -14,10 +14,12 @@
         "background_secondary": 419411638,
         "statusbar": 838688864,
         "active_channel": -7836417,
+        "mention_highlight": 642481321
     },
     "colors": {
         "uikit_btn_bg_color_selector_red": -302088064,
         "uikit_btn_bg_color_selector_green": -326467585,
+        "primary_dark_200": -14013910,
         "primary_dark_400": -14013910
     },
     "drawable_tints": {
