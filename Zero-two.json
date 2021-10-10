@@ -2,6 +2,7 @@
     "manifest": {
         "author": "Camjam948#0909",
         "name": "Zero-two",
+        "updater": "https:\/\/raw.githubusercontent.com\/camjam948\/Aliu-Themes\/main\/Zero-two.json",
         "version": "1.0.0"
     },
     "background": {
