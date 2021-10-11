@@ -1,3 +1,3 @@
-# Aliu-Themes
+# Aliucord themes
 
-my themes lo
+My themes when i get bored lol
