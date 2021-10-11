@@ -1,0 +1,27 @@
+{
+    "manifest": {
+        "author": "Camjam948#0909",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/camjam948\/Aliu-Themes\/main\/Rem.json",
+        "name": "Rem"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/802602624423690290\/897217827218526228\/OIP.jpeg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 388464333,
+        "background_secondary": 405241549,
+        "active_channel": -7836417,
+        "mention_highlight": 651821134
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -302077270,
+        "uikit_btn_bg_color_selector_green": -323900673,
+        "primary_dark_400": -14013910
+    },
+    "drawable_tints": {
+        "drawable_button_red": -302088064,
+        "drawable_button_green": -326467585
+    }
+}
